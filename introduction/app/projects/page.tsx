@@ -1,21 +1,10 @@
+import NavBar from "@/components/NavBar";
+
 export default function Projects() {
     return (
         <>
         <div>
-            <nav className="flex justify-between p-4 bg-gray-100">
-            <div className=" text-black font-bold text-xl">Projects page</div>
-            <ul className="flex list-none gap-4 m-0 p-0">
-                <li>
-                <a href="/" className="bg-gray-300 rounded-full px-4 py-2 text-black cursor-pointer">Home</a>
-                </li>
-                <li>
-                <a href="/projects" className="bg-gray-300 rounded-full px-4 py-2 text-black cursor-pointer">Projects</a>
-                </li>
-                <li>
-                <a href="/contact" className="bg-gray-300 rounded-full px-4 py-2 text-black cursor-pointer">Contact</a>
-                </li>  
-            </ul>
-            </nav>
+            <NavBar />
         </div>
         <main className="p-4">
             <section className="mb-8">
