@@ -2,7 +2,7 @@
 import NavBar from '@/components/NavBar'
 import React from 'react'
 import { Bounce, ToastContainer, toast } from 'react-toastify'  
-import { useState } from 'react'
+
 
 const handleCopy = () => {
   const email = "thomastran1911@gmail.com"
