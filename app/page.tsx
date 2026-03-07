@@ -17,7 +17,7 @@ export default function Home() {
         
         <div className="flex-1">
         <p className={`text-white rounded-lg  text-lg text-left`}>
-          Hi, I&apos;m Thomas Tran. I am a data analyst based in Darwin, NT. I have a passion for analysing data and web development. I love analysing data and using it to tell stories. In my free time, I enjoy learning new technologies and improving my skills.
+          Hi, I&apos;m Thomas Tran. I am a software developer/data analyst based in Darwin, NT. I have a passion for analysing data and web development. I love analysing data and using it to tell stories. In my free time, I enjoy learning new technologies and improving my skills.
         </p>
         <div className="flex justify-start mt-4">
           <a 

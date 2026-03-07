@@ -88,6 +88,16 @@ export default function Projects() {
                             </div>
                         </div>     
                 </details>
+                <details className="inner">
+                    <summary className="cursor-pointer text-xl font-semibold">Data Validation Tool</summary>
+                    <div className="text-white bg-gray-800 p-4 rounded-lg mt-2 flex flex-col items-start text-left">
+                            <div className="pl-2">
+                                <p>
+                                Helped to develop a data validation tool using Python with GUI that streamline the process of data QA/QC and saved weeks of manual data checking
+                                </p>
+                            </div>
+                        </div>     
+                </details>
             </details>
         </main>
         </>
