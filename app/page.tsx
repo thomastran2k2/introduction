@@ -90,6 +90,22 @@ export default function Home() {
         height="38" 
         style={{ fill: "#000000" }} 
       />
+      <img
+      src="/qgis.svg" 
+        alt="Icon description" 
+        width="38" 
+        height="38" 
+        style={{ fill: "#000000" }} 
+        >
+      </img>
+      <img
+      src="/arcgis.png" 
+        alt="Icon description" 
+        width="38" 
+        height="38" 
+        style={{ fill: "#000000" }} 
+        >
+      </img>
             </div>
       
       </section>
